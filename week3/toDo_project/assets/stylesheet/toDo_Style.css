@@ -1,0 +1,22 @@
+.heading_h1{
+  background-color: darkgray;
+  color: white;
+}
+
+.list {
+    background-color: salmon;
+    color: white;
+    padding: 1px;
+}
+
+.items {
+  border: 1em solid coral;
+}
+
+#newToDo{
+  color: white;
+}
+
+#addToForm{
+  text-align: left;
+}
